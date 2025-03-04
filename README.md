@@ -1,5 +1,3 @@
-### **`README.md` File Code**
-```md
 # 🔐 Feistel-Based Cryptographic Algorithm
 
 ## 📌 Overview
